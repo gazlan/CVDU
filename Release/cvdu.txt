@@ -1,0 +1,7 @@
+-*-   CVDU   *   Copyright (c) Gazlan, 2011   -*-
+
+CVD ClamAV database unpacker
+
+Usage: cvdu.com file.cvd
+
+complains_n_suggestions direct to gazlan@yandex.ru
